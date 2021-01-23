@@ -1,0 +1,10 @@
+Spark Speculitive execution.
+Spark memory model / spark task executor memory model.
+order by
+how to find max - 
+hive table - hives
+parquet file - how data is stored and what are the adantages
+how to assign unique id to millions records
+datasets
+
+When reading data from hdfs, local file system on which node data will go.
