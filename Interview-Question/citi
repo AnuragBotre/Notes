@@ -8,3 +8,5 @@ how to assign unique id to millions records
 datasets
 
 When reading data from hdfs, local file system on which node data will go.
+sort by vs order by
+partition vs bucketing
