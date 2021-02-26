@@ -1,0 +1,10 @@
+https://panoply.io/data-warehouse-guide/bigquery-architecture/
+-- A Deep Dive Into Google BigQuery Architecture
+-- Big query works on Internal Google Project Dremel
+-- https://drill.apache.org/ -> Apache Drill is the open source version of Google Internal Project Dremel
+
+
+https://www.coursera.org/professional-certificates/gcp-data-engineering?
+
+
+
